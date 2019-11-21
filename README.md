@@ -4,9 +4,9 @@
 
 > IDE
 
-![PyCharm](https://img.shields.io/badge/PyCharm-2019.2.3%20(Professional%20Edition)-brightgreen)
+![PyCharm](https://img.shields.io/badge/PyCharm-2019.2.5%20(Professional%20Edition)-brightgreen)
 ![Spyder](https://img.shields.io/badge/Spyder-3.3.6-red)
-![Python](https://img.shields.io/badge/python-3.7.4-blue)
+![Python](https://img.shields.io/badge/Python-3.7.5-blue)
 
 
 Concepts, Tools, and Techniques to Build Intelligent Systems
